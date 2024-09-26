@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "devise", "~> 4.9"
+
+gem "image_processing", "~> 1.13"
+
+gem "ckeditor", "~> 5.1"
+
+gem "pundit", "~> 2.4"
